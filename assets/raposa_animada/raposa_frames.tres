@@ -1,0 +1,72 @@
+[gd_resource type="SpriteFrames" load_steps=49 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_baixo_00.png" id="1"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_baixo_01.png" id="2"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_baixo_02.png" id="3"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_baixo_03.png" id="4"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_cima_00.png" id="5"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_cima_01.png" id="6"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_cima_02.png" id="7"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_cima_03.png" id="8"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_direita_00.png" id="9"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_direita_01.png" id="10"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_direita_02.png" id="11"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_direita_03.png" id="12"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_esquerda_00.png" id="13"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_esquerda_01.png" id="14"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_esquerda_02.png" id="15"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/andar_esquerda_03.png" id="16"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_baixo_00.png" id="17"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_baixo_01.png" id="18"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_baixo_02.png" id="19"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_baixo_03.png" id="20"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_cima_00.png" id="21"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_cima_01.png" id="22"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_cima_02.png" id="23"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_cima_03.png" id="24"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_direita_00.png" id="25"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_direita_01.png" id="26"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_direita_02.png" id="27"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_direita_03.png" id="28"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_esquerda_00.png" id="29"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_esquerda_01.png" id="30"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_esquerda_02.png" id="31"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/carregar_esquerda_03.png" id="32"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/entregar_00.png" id="33"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/entregar_01.png" id="34"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/entregar_02.png" id="35"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/entregar_03.png" id="36"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/parada_baixo_00.png" id="37"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/parada_cima_00.png" id="38"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/parada_direita_00.png" id="39"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/parada_esquerda_00.png" id="40"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/preparar_00.png" id="41"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/preparar_01.png" id="42"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/preparar_02.png" id="43"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/preparar_03.png" id="44"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/segurar_baixo_00.png" id="45"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/segurar_cima_00.png" id="46"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/segurar_direita_00.png" id="47"]
+[ext_resource type="Texture2D" path="res://assets/raposa_animada/segurar_esquerda_00.png" id="48"]
+
+[resource]
+animations = [
+{"frames": [{"duration": 1.0, "texture": ExtResource("1")}, {"duration": 1.0, "texture": ExtResource("2")}, {"duration": 1.0, "texture": ExtResource("3")}, {"duration": 1.0, "texture": ExtResource("4")}], "loop": true, "name": &"andar_baixo", "speed": 8.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("5")}, {"duration": 1.0, "texture": ExtResource("6")}, {"duration": 1.0, "texture": ExtResource("7")}, {"duration": 1.0, "texture": ExtResource("8")}], "loop": true, "name": &"andar_cima", "speed": 8.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("9")}, {"duration": 1.0, "texture": ExtResource("10")}, {"duration": 1.0, "texture": ExtResource("11")}, {"duration": 1.0, "texture": ExtResource("12")}], "loop": true, "name": &"andar_direita", "speed": 8.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("13")}, {"duration": 1.0, "texture": ExtResource("14")}, {"duration": 1.0, "texture": ExtResource("15")}, {"duration": 1.0, "texture": ExtResource("16")}], "loop": true, "name": &"andar_esquerda", "speed": 8.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("45")}, {"duration": 1.0, "texture": ExtResource("18")}, {"duration": 1.0, "texture": ExtResource("19")}, {"duration": 1.0, "texture": ExtResource("20")}], "loop": true, "name": &"carregar_baixo", "speed": 7.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("46")}, {"duration": 1.0, "texture": ExtResource("22")}, {"duration": 1.0, "texture": ExtResource("23")}, {"duration": 1.0, "texture": ExtResource("24")}], "loop": true, "name": &"carregar_cima", "speed": 7.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("47")}, {"duration": 1.0, "texture": ExtResource("28")}, {"duration": 1.0, "texture": ExtResource("47")}, {"duration": 1.0, "texture": ExtResource("28")}], "loop": true, "name": &"carregar_direita", "speed": 7.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("48")}, {"duration": 1.0, "texture": ExtResource("32")}, {"duration": 1.0, "texture": ExtResource("48")}, {"duration": 1.0, "texture": ExtResource("32")}], "loop": true, "name": &"carregar_esquerda", "speed": 7.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("33")}, {"duration": 1.0, "texture": ExtResource("34")}, {"duration": 1.0, "texture": ExtResource("35")}, {"duration": 1.0, "texture": ExtResource("36")}], "loop": false, "name": &"entregar", "speed": 8.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("37")}], "loop": true, "name": &"parada_baixo", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("38")}], "loop": true, "name": &"parada_cima", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("39")}], "loop": true, "name": &"parada_direita", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("40")}], "loop": true, "name": &"parada_esquerda", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("41")}, {"duration": 1.0, "texture": ExtResource("42")}, {"duration": 1.0, "texture": ExtResource("43")}, {"duration": 1.0, "texture": ExtResource("44")}], "loop": true, "name": &"preparar", "speed": 7.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("45")}], "loop": true, "name": &"segurar_baixo", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("46")}], "loop": true, "name": &"segurar_cima", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("47")}], "loop": true, "name": &"segurar_direita", "speed": 1.0},
+{"frames": [{"duration": 1.0, "texture": ExtResource("48")}], "loop": true, "name": &"segurar_esquerda", "speed": 1.0}
+]

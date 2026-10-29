@@ -1,0 +1,9 @@
+.godot/
+*.tmp
+*.log
+site/jogar/index.js
+site/jogar/index.pck
+site/jogar/index.wasm
+site/jogar/index.wasm.gz
+site/jogar/*.worklet.js
+site/jogar/*.png

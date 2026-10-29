@@ -27,4 +27,3 @@ Use `web_tools/exportar-web.ps1 -GodotPath CAMINHO_DO_GODOT`. O jogo utiliza Com
 Os testes de regressão estão em `tests/`. Exemplo: `godot --headless --path . --script res://tests/test_bandeja_dupla.gd`.
 
 O motor Godot é distribuído sob licença MIT; a exportação inclui o aviso de licença do motor. Esta licença do motor não concede automaticamente uma licença ao conteúdo do jogo.
-

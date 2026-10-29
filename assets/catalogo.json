@@ -1,0 +1,326 @@
+[
+	{
+		"group": "personagens",
+		"height": 675,
+		"name": "gato",
+		"width": 514
+	},
+	{
+		"group": "personagens",
+		"height": 697,
+		"name": "coelho",
+		"width": 532
+	},
+	{
+		"group": "personagens",
+		"height": 705,
+		"name": "capivara",
+		"width": 543
+	},
+	{
+		"group": "personagens",
+		"height": 683,
+		"name": "raposa",
+		"width": 517
+	},
+	{
+		"group": "produtos_ui",
+		"height": 232,
+		"name": "cafe",
+		"width": 319
+	},
+	{
+		"group": "produtos_ui",
+		"height": 252,
+		"name": "bolo",
+		"width": 356
+	},
+	{
+		"group": "produtos_ui",
+		"height": 252,
+		"name": "suco",
+		"width": 353
+	},
+	{
+		"group": "produtos_ui",
+		"height": 252,
+		"name": "morango",
+		"width": 355
+	},
+	{
+		"group": "produtos_ui",
+		"height": 268,
+		"name": "graos",
+		"width": 362
+	},
+	{
+		"group": "produtos_ui",
+		"height": 272,
+		"name": "leite",
+		"width": 350
+	},
+	{
+		"group": "produtos_ui",
+		"height": 272,
+		"name": "croissant",
+		"width": 347
+	},
+	{
+		"group": "produtos_ui",
+		"height": 272,
+		"name": "muffin",
+		"width": 331
+	},
+	{
+		"group": "produtos_ui",
+		"height": 264,
+		"name": "cupcake_rosa",
+		"width": 337
+	},
+	{
+		"group": "produtos_ui",
+		"height": 250,
+		"name": "cupcake_branco",
+		"width": 331
+	},
+	{
+		"group": "produtos_ui",
+		"height": 264,
+		"name": "cookie",
+		"width": 347
+	},
+	{
+		"group": "produtos_ui",
+		"height": 267,
+		"name": "torta",
+		"width": 347
+	},
+	{
+		"group": "produtos_ui",
+		"height": 269,
+		"name": "moeda",
+		"width": 345
+	},
+	{
+		"group": "produtos_ui",
+		"height": 251,
+		"name": "coracao",
+		"width": 362
+	},
+	{
+		"group": "produtos_ui",
+		"height": 272,
+		"name": "coracao_vazio",
+		"width": 346
+	},
+	{
+		"group": "produtos_ui",
+		"height": 262,
+		"name": "balao",
+		"width": 325
+	},
+	{
+		"group": "objetos",
+		"height": 184,
+		"name": "balcao",
+		"width": 275
+	},
+	{
+		"group": "objetos",
+		"height": 210,
+		"name": "vitrine",
+		"width": 311
+	},
+	{
+		"group": "objetos",
+		"height": 220,
+		"name": "cafeteira",
+		"width": 243
+	},
+	{
+		"group": "objetos",
+		"height": 213,
+		"name": "moedor",
+		"width": 104
+	},
+	{
+		"group": "objetos",
+		"height": 240,
+		"name": "geladeira",
+		"width": 208
+	},
+	{
+		"group": "objetos",
+		"height": 129,
+		"name": "caixa",
+		"width": 197
+	},
+	{
+		"group": "objetos",
+		"height": 194,
+		"name": "mesa_toalha",
+		"width": 225
+	},
+	{
+		"group": "objetos",
+		"height": 202,
+		"name": "mesa",
+		"width": 215
+	},
+	{
+		"group": "objetos",
+		"height": 210,
+		"name": "cadeira",
+		"width": 153
+	},
+	{
+		"group": "objetos",
+		"height": 197,
+		"name": "tapete_vermelho",
+		"width": 270
+	},
+	{
+		"group": "objetos",
+		"height": 210,
+		"name": "tapete_verde",
+		"width": 270
+	},
+	{
+		"group": "objetos",
+		"height": 176,
+		"name": "portao",
+		"width": 272
+	},
+	{
+		"group": "objetos",
+		"height": 215,
+		"name": "planta_grande",
+		"width": 255
+	},
+	{
+		"group": "objetos",
+		"height": 215,
+		"name": "planta_pendente",
+		"width": 195
+	},
+	{
+		"group": "objetos",
+		"height": 201,
+		"name": "flores",
+		"width": 181
+	},
+	{
+		"group": "objetos",
+		"height": 198,
+		"name": "planta_pequena",
+		"width": 185
+	},
+	{
+		"group": "objetos",
+		"height": 215,
+		"name": "luminaria",
+		"width": 191
+	},
+	{
+		"group": "objetos",
+		"height": 215,
+		"name": "estante",
+		"width": 274
+	},
+	{
+		"group": "objetos",
+		"height": 170,
+		"name": "placa",
+		"width": 373
+	},
+	{
+		"group": "objetos",
+		"height": 170,
+		"name": "lousa",
+		"width": 222
+	},
+	{
+		"group": "objetos",
+		"height": 151,
+		"name": "quadro",
+		"width": 148
+	},
+	{
+		"group": "objetos",
+		"height": 120,
+		"name": "prateleira",
+		"width": 288
+	},
+	{
+		"group": "objetos",
+		"height": 170,
+		"name": "redoma",
+		"width": 218
+	},
+	{
+		"group": "objetos",
+		"height": 160,
+		"name": "pote_graos",
+		"width": 118
+	},
+	{
+		"group": "objetos",
+		"height": 153,
+		"name": "pote",
+		"width": 171
+	},
+	{
+		"group": "objetos",
+		"height": 160,
+		"name": "garrafa_leite",
+		"width": 192
+	},
+	{
+		"group": "objetos",
+		"height": 145,
+		"name": "bilhetes",
+		"width": 183
+	},
+	{
+		"group": "objetos",
+		"height": 146,
+		"name": "xicaras",
+		"width": 161
+	},
+	{
+		"group": "objetos",
+		"height": 146,
+		"name": "jarra",
+		"width": 151
+	},
+	{
+		"group": "objetos",
+		"height": 136,
+		"name": "prato",
+		"width": 194
+	},
+	{
+		"group": "texturas",
+		"height": 615,
+		"name": "piso",
+		"width": 639
+	},
+	{
+		"group": "texturas",
+		"height": 615,
+		"name": "madeira_parede",
+		"width": 639
+	},
+	{
+		"group": "texturas",
+		"height": 615,
+		"name": "madeira_balcao",
+		"width": 639
+	},
+	{
+		"group": "texturas",
+		"height": 615,
+		"name": "parede_creme",
+		"width": 639
+	}
+]

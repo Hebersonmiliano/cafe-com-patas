@@ -1,0 +1,27 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Script" path="res://raposa.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://assets/raposa_animada/raposa_frames.tres" id="2"]
+
+[sub_resource type="RectangleShape2D" id="Feet"]
+size = Vector2(22, 14)
+
+[node name="RaposaBarista" type="CharacterBody2D"]
+script = ExtResource("1")
+texture_filter = 1
+
+[node name="ColisaoPes" type="CollisionShape2D" parent="."]
+position = Vector2(0, 28)
+shape = SubResource("Feet")
+
+[node name="Corpo" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -20)
+scale = Vector2(0.86, 0.86)
+sprite_frames = ExtResource("2")
+animation = &"parada_baixo"
+
+[node name="Produto" type="Sprite2D" parent="."]
+visible = false
+
+[node name="Produto2" type="Sprite2D" parent="."]
+visible = false

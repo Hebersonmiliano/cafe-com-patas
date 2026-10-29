@@ -1,0 +1,290 @@
+[
+	{
+		"animation": "andar_baixo",
+		"file": "res://assets/raposa_animada/andar_baixo_00.png",
+		"fps": 8.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_baixo",
+		"file": "res://assets/raposa_animada/andar_baixo_01.png",
+		"fps": 8.0,
+		"frame": 1
+	},
+	{
+		"animation": "andar_baixo",
+		"file": "res://assets/raposa_animada/andar_baixo_02.png",
+		"fps": 8.0,
+		"frame": 2
+	},
+	{
+		"animation": "andar_baixo",
+		"file": "res://assets/raposa_animada/andar_baixo_03.png",
+		"fps": 8.0,
+		"frame": 3
+	},
+	{
+		"animation": "parada_baixo",
+		"file": "res://assets/raposa_animada/parada_baixo_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_baixo",
+		"file": "res://assets/raposa_animada/carregar_baixo_00.png",
+		"fps": 7.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_baixo",
+		"file": "res://assets/raposa_animada/carregar_baixo_01.png",
+		"fps": 7.0,
+		"frame": 1
+	},
+	{
+		"animation": "carregar_baixo",
+		"file": "res://assets/raposa_animada/carregar_baixo_02.png",
+		"fps": 7.0,
+		"frame": 2
+	},
+	{
+		"animation": "carregar_baixo",
+		"file": "res://assets/raposa_animada/carregar_baixo_03.png",
+		"fps": 7.0,
+		"frame": 3
+	},
+	{
+		"animation": "segurar_baixo",
+		"file": "res://assets/raposa_animada/segurar_baixo_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_esquerda",
+		"file": "res://assets/raposa_animada/andar_esquerda_00.png",
+		"fps": 8.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_esquerda",
+		"file": "res://assets/raposa_animada/andar_esquerda_01.png",
+		"fps": 8.0,
+		"frame": 1
+	},
+	{
+		"animation": "andar_esquerda",
+		"file": "res://assets/raposa_animada/andar_esquerda_02.png",
+		"fps": 8.0,
+		"frame": 2
+	},
+	{
+		"animation": "andar_esquerda",
+		"file": "res://assets/raposa_animada/andar_esquerda_03.png",
+		"fps": 8.0,
+		"frame": 3
+	},
+	{
+		"animation": "parada_esquerda",
+		"file": "res://assets/raposa_animada/parada_esquerda_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_esquerda",
+		"file": "res://assets/raposa_animada/carregar_esquerda_00.png",
+		"fps": 7.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_esquerda",
+		"file": "res://assets/raposa_animada/carregar_esquerda_01.png",
+		"fps": 7.0,
+		"frame": 1
+	},
+	{
+		"animation": "carregar_esquerda",
+		"file": "res://assets/raposa_animada/carregar_esquerda_02.png",
+		"fps": 7.0,
+		"frame": 2
+	},
+	{
+		"animation": "carregar_esquerda",
+		"file": "res://assets/raposa_animada/carregar_esquerda_03.png",
+		"fps": 7.0,
+		"frame": 3
+	},
+	{
+		"animation": "segurar_esquerda",
+		"file": "res://assets/raposa_animada/segurar_esquerda_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_direita",
+		"file": "res://assets/raposa_animada/andar_direita_00.png",
+		"fps": 8.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_direita",
+		"file": "res://assets/raposa_animada/andar_direita_01.png",
+		"fps": 8.0,
+		"frame": 1
+	},
+	{
+		"animation": "andar_direita",
+		"file": "res://assets/raposa_animada/andar_direita_02.png",
+		"fps": 8.0,
+		"frame": 2
+	},
+	{
+		"animation": "andar_direita",
+		"file": "res://assets/raposa_animada/andar_direita_03.png",
+		"fps": 8.0,
+		"frame": 3
+	},
+	{
+		"animation": "parada_direita",
+		"file": "res://assets/raposa_animada/parada_direita_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_direita",
+		"file": "res://assets/raposa_animada/carregar_direita_00.png",
+		"fps": 7.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_direita",
+		"file": "res://assets/raposa_animada/carregar_direita_01.png",
+		"fps": 7.0,
+		"frame": 1
+	},
+	{
+		"animation": "carregar_direita",
+		"file": "res://assets/raposa_animada/carregar_direita_02.png",
+		"fps": 7.0,
+		"frame": 2
+	},
+	{
+		"animation": "carregar_direita",
+		"file": "res://assets/raposa_animada/carregar_direita_03.png",
+		"fps": 7.0,
+		"frame": 3
+	},
+	{
+		"animation": "segurar_direita",
+		"file": "res://assets/raposa_animada/segurar_direita_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_cima",
+		"file": "res://assets/raposa_animada/andar_cima_00.png",
+		"fps": 8.0,
+		"frame": 0
+	},
+	{
+		"animation": "andar_cima",
+		"file": "res://assets/raposa_animada/andar_cima_01.png",
+		"fps": 8.0,
+		"frame": 1
+	},
+	{
+		"animation": "andar_cima",
+		"file": "res://assets/raposa_animada/andar_cima_02.png",
+		"fps": 8.0,
+		"frame": 2
+	},
+	{
+		"animation": "andar_cima",
+		"file": "res://assets/raposa_animada/andar_cima_03.png",
+		"fps": 8.0,
+		"frame": 3
+	},
+	{
+		"animation": "parada_cima",
+		"file": "res://assets/raposa_animada/parada_cima_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_cima",
+		"file": "res://assets/raposa_animada/carregar_cima_00.png",
+		"fps": 7.0,
+		"frame": 0
+	},
+	{
+		"animation": "carregar_cima",
+		"file": "res://assets/raposa_animada/carregar_cima_01.png",
+		"fps": 7.0,
+		"frame": 1
+	},
+	{
+		"animation": "carregar_cima",
+		"file": "res://assets/raposa_animada/carregar_cima_02.png",
+		"fps": 7.0,
+		"frame": 2
+	},
+	{
+		"animation": "carregar_cima",
+		"file": "res://assets/raposa_animada/carregar_cima_03.png",
+		"fps": 7.0,
+		"frame": 3
+	},
+	{
+		"animation": "segurar_cima",
+		"file": "res://assets/raposa_animada/segurar_cima_00.png",
+		"fps": 1.0,
+		"frame": 0
+	},
+	{
+		"animation": "preparar",
+		"file": "res://assets/raposa_animada/preparar_00.png",
+		"fps": 7.0,
+		"frame": 0
+	},
+	{
+		"animation": "preparar",
+		"file": "res://assets/raposa_animada/preparar_01.png",
+		"fps": 7.0,
+		"frame": 1
+	},
+	{
+		"animation": "preparar",
+		"file": "res://assets/raposa_animada/preparar_02.png",
+		"fps": 7.0,
+		"frame": 2
+	},
+	{
+		"animation": "preparar",
+		"file": "res://assets/raposa_animada/preparar_03.png",
+		"fps": 7.0,
+		"frame": 3
+	},
+	{
+		"animation": "entregar",
+		"file": "res://assets/raposa_animada/entregar_00.png",
+		"fps": 8.0,
+		"frame": 0
+	},
+	{
+		"animation": "entregar",
+		"file": "res://assets/raposa_animada/entregar_01.png",
+		"fps": 8.0,
+		"frame": 1
+	},
+	{
+		"animation": "entregar",
+		"file": "res://assets/raposa_animada/entregar_02.png",
+		"fps": 8.0,
+		"frame": 2
+	},
+	{
+		"animation": "entregar",
+		"file": "res://assets/raposa_animada/entregar_03.png",
+		"fps": 8.0,
+		"frame": 3
+	}
+]
