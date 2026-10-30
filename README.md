@@ -4,6 +4,12 @@ Jogo de cafeteria em pixel art para o Mundo SENAI, desenvolvido no curso técnic
 
 **Equipe:** Emilly Lima, Ana Júlia Rodrigues e Prof. Heberson Miliano.
 
+## Jogar no Portal Pixel
+
+Site oficial: https://hebersonmiliano.github.io/portal-jogos/jogo.html?id=cafe-com-patas
+
+Guia ilustrado: https://hebersonmiliano.github.io/portal-jogos/guias/cafe-com-patas.html
+
 ## Executar
 
 Importe `project.godot` no Godot 4.7.2 e pressione F6 na cena principal ou F5 para jogar.
