@@ -166,6 +166,7 @@ func _draw() -> void:
 			center("ESC PARA CONTINUAR",Vector2(576,335),2)
 			center("F SOM "+("ON" if game.sounds.effects_enabled else "OFF")+" / M MUSICA "+("ON" if game.sounds.music_enabled else "OFF"),Vector2(576,385),2)
 			center("+/- VOLUME %d/100" % int(game.sounds.volume*100),Vector2(576,425),2)
+			center("B GRAVES "+("ON" if game.sounds.bass_enabled else "OFF"),Vector2(576,451),2)
 			center("RECORDE %d MOEDAS" % game.sounds.best_score,Vector2(576,474),2,GOLD)
 		else:
 			var title = "DIA DE SUCESSO!" if state.served>=game.SERVICE_GOAL and state.hearts>0 else "EXPEDIENTE ENCERRADO"
@@ -174,3 +175,4 @@ func _draw() -> void:
 			center("CLIENTES QUE SAIRAM %d" % game.missed,Vector2(576,325),2)
 			center("RECORDE LOCAL %d MOEDAS" % game.sounds.best_score,Vector2(576,367),2,GOLD)
 			center("ENTER PARA JOGAR NOVAMENTE",Vector2(576,426),2,GOLD)
+

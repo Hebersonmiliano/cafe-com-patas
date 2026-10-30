@@ -4,7 +4,7 @@ extends Node2D
 const CREAM = Color("fff0d2")
 const INK = Color("493127")
 const GREEN = Color("578b65")
-const RELEASE = "1.2"
+const RELEASE = "1.3"
 const SERVICE_GOAL = 8
 const STATIONS = [Vector2(725, 220), Vector2(842, 220), Vector2(974, 220)]
 const PREP_REACH = 46.0
@@ -520,4 +520,5 @@ func _draw() -> void:
 		environment_art()
 	if hud:
 		hud.queue_redraw()
+
 

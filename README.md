@@ -16,9 +16,11 @@ R repõe o estoque próximo de uma estação, com bandeja vazia. Q descarta o ú
 
 Pedidos simples: gato 44s, coelho 52s, capivara 64s. Pedidos duplos somam 24s. A paciência começa na chegada à mesa.
 
-## Versão 1.2
+## Versão 1.3
 
 Bandeja dupla, colisões do balcão e corredor da geladeira corrigidas, três mesas, cadeiras alinhadas aos clientes e quadros de caminhada sem fragmentos dos vizinhos. Consulte `VERSAO-1.2.md`.
+
+Som com mais volume, contrabaixo e pulso suave. **B** alterna graves; **M** liga a música; **+ / −** ajustam volume. As configurações já salvas são preservadas. Consulte `VERSAO-1.3.md`.
 
 ## Exportar HTML5
 
@@ -27,3 +29,4 @@ Use `web_tools/exportar-web.ps1 -GodotPath CAMINHO_DO_GODOT`. O jogo utiliza Com
 Os testes de regressão estão em `tests/`. Exemplo: `godot --headless --path . --script res://tests/test_bandeja_dupla.gd`.
 
 O motor Godot é distribuído sob licença MIT; a exportação inclui o aviso de licença do motor. Esta licença do motor não concede automaticamente uma licença ao conteúdo do jogo.
+
